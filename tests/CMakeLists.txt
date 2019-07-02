@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-set(NAME test)
+set(NAME tests)
 
 add_executable(${NAME} main.cpp fractals/fractals_test.h)
 
