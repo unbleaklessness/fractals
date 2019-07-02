@@ -1,0 +1,3 @@
+[submodule "extern/opengl"]
+	path = extern/opengl
+	url = https://github.com/unbleaklessness/opengl
