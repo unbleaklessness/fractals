@@ -3,8 +3,6 @@ cmake_minimum_required(VERSION 3.0)
 set(MY_PROJECT_NAME fractals)
 project(${MY_PROJECT_NAME})
 
-include(GNUInstallDirs)
-
 # Git submodules:
 option(GIT_SUBMODULE "Check submodules during build" ON)
 if(GIT_SUBMODULE)
